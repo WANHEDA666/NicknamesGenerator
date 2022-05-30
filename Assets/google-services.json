@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957511144663",
+    "firebase_url": "https://bestnicknamegenerator-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bestnicknamegenerator",
+    "storage_bucket": "bestnicknamegenerator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957511144663:android:8d13970bb739781e034c92",
+        "android_client_info": {
+          "package_name": "com.AgelessGod.BestNicknamesGenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957511144663-ot9hoel2k22c708nkgagarccnbn5d4dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ_gNK2z-5qukEtUVtXcurAx-CGm0ZyeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957511144663-ot9hoel2k22c708nkgagarccnbn5d4dh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957511144663-8q2od5u7i6tibtfq0dhiuh81cv7p2d5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AgelessGod.BestNicknamesGenerator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

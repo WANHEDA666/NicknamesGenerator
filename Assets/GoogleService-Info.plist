@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>957511144663-8q2od5u7i6tibtfq0dhiuh81cv7p2d5k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.957511144663-8q2od5u7i6tibtfq0dhiuh81cv7p2d5k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBf1CMr4QYaRoEodsjM0dZx1fxu2Uhbb2M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>957511144663</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AgelessGod.BestNicknamesGenerator</string>
+	<key>PROJECT_ID</key>
+	<string>bestnicknamegenerator</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bestnicknamegenerator.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:957511144663:ios:861b5fd3b895bbce034c92</string>
+	<key>DATABASE_URL</key>
+	<string>https://bestnicknamegenerator-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
